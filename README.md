@@ -1,2 +1,2 @@
 # Web-Scraping
-Fetching the ranklist of our college from codeshef with python.
+Fetching the ranklist of our college from codechef with python.
